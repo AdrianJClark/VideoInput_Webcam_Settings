@@ -1,0 +1,17 @@
+<BackLightCompensation min="0" max="10" steppingDelta="1" currentValue="0" flags="2" defaultval="0" />
+<Brightness min="30" max="255" steppingDelta="1" currentValue="133" flags="2" defaultval="133" />
+<Contrast min="0" max="10" steppingDelta="1" currentValue="5" flags="2" defaultval="5" />
+<Gain min="4" max="17556100" steppingDelta="1886153197" currentValue="3406232" flags="0" defaultval="3406068" />
+<Gamma min="5" max="17556108" steppingDelta="1886153197" currentValue="3406232" flags="0" defaultval="3406068" />
+<Hue min="3" max="17556116" steppingDelta="1886153197" currentValue="3406232" flags="0" defaultval="3406068" />
+<Saturation min="0" max="200" steppingDelta="1" currentValue="83" flags="2" defaultval="83" />
+<Sharpness min="0" max="50" steppingDelta="1" currentValue="20" flags="2" defaultval="20" />
+<WhiteBalance min="2800" max="10000" steppingDelta="1" currentValue="4500" flags="1" defaultval="4500" />
+<ColourEnable min="0" max="40" steppingDelta="1" currentValue="10" flags="2" defaultval="0" />
+<Exposure min="-11" max="1" steppingDelta="1" currentValue="-6" flags="1" defaultval="-6" />
+<Focus min="0" max="40" steppingDelta="1" currentValue="10" flags="2" defaultval="0" />
+<Iris min="4" max="17556196" steppingDelta="1886153197" currentValue="3406232" flags="0" defaultval="3406068" />
+<Pan min="-56" max="56" steppingDelta="1" currentValue="0" flags="2" defaultval="0" />
+<Roll min="4" max="17556208" steppingDelta="1886153197" currentValue="3406232" flags="0" defaultval="3406068" />
+<Tilt min="-56" max="56" steppingDelta="1" currentValue="0" flags="2" defaultval="0" />
+<Zoom min="0" max="10" steppingDelta="1" currentValue="0" flags="2" defaultval="0" />
